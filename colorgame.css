@@ -1,0 +1,63 @@
+/*clr gm*/
+
+body {
+	background:black;
+}
+
+.rgb {
+	font-weight:400;
+}
+
+.jumbotron {
+	padding:1rem 2rem;
+	background:#623DF5;
+	color:white;
+	line-height: .8rem;
+}
+
+.lead {
+	font-weight:400;
+}
+
+.qw {
+	background:red;
+	float:left;
+	width:30%;
+	margin:1.66%;
+	padding-bottom:30%;
+	border-radius:20px;
+	transition: all 2s;
+}
+
+#we {
+	max-width:500px;
+}
+
+#er {
+	background-color:white;
+	text-align:center;
+}
+
+.selected {
+	background:#623DF5;
+	color:white;
+}
+
+button {
+	border:none;
+	color:#623DF5;
+	background-color:white;
+	transition:all 0.3s;
+}
+
+button:hover {
+	border:none;
+	color:white;
+	background-color:#623DF5;
+}
+
+#mc {
+	display:inline-block;
+	width:20%;
+}
+
