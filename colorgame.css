@@ -2,6 +2,7 @@
 
 body {
 	background:black;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .rgb {
@@ -59,5 +60,14 @@ button:hover {
 #mc {
 	display:inline-block;
 	width:20%;
+}
+
+/* Added hover effect */
+
+#new:hover{
+	cursor: pointer;
+}
+.onhover:hover{
+	cursor: pointer;
 }
 
